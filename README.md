@@ -6,3 +6,7 @@ That turned into a sketch on paper of what I think a better model would be.
 Then transitioning that into an interactive GUI using processing.
 
 You are able to find my code for this project in the "src" folder.
+
+
+- Riley Moore
+- R11651701
