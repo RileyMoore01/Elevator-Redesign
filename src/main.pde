@@ -135,5 +135,5 @@ void draw() {
 }
 
 void f1() {
-  ;
+  println("hello world");
 }
