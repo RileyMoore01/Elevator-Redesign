@@ -9,8 +9,8 @@
 **Pros:** <br />
 - Help box
 - Fire Operations
-- Level Display
-<br />**Cons:** <br />
+- Level Display<br />
+**Cons:** <br />
 - Button layout
 - Employee key slots
 
