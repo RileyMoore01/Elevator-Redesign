@@ -3,9 +3,6 @@
 
 **Elevator door referenced:** Suites at Overton, East elevator door <br />
 
-**Insert image here**
-![test](https://drive.google.com/drive/u/0/my-drive/IMG_5832.JPG)
-
 **Pros:** <br />
 - Help box
 - Fire Operations
@@ -15,5 +12,15 @@
 **Cons:** <br />
 - Button layout
 - Employee key slots
+
+**Features:** <br />
+- Open & Close
+- Alarm button
+- Call feeback
+- Fire operation feeback
+- Floor level display
+- Employee key slots
+- Queue for the elevator destination not working properly
+
 
 You are able to find my code for this project in the "src" folder.
