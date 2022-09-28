@@ -22,5 +22,6 @@
 - Employee key slots
 - Queue for the elevator destination not working properly
 
+![My Image](elevatorDesign.gif)
 
 You are able to find my code for this project in the "src" folder.
