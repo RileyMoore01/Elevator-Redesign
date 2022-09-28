@@ -2,6 +2,9 @@
 **Riley Moore**
 
 **Elevator door referenced:** Suites at Overton, East elevator door <br />
+
+**Insert image here**
+
 **Pros:** <br />
 **Cons:** <br />
 
