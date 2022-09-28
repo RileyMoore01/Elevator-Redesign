@@ -3,6 +3,9 @@
 
 **Elevator door referenced:** Suites at Overton, East elevator door <br />
 
+**Elevator Design**
+![My Image](elevatorDesign.gif)
+
 **Pros:** <br />
 - Help box
 - Fire Operations
@@ -13,6 +16,7 @@
 - Button layout
 - Employee key slots
 
+
 **Features:** <br />
 - Open & Close
 - Alarm button
@@ -21,7 +25,5 @@
 - Floor level display
 - Employee key slots
 - Queue for the elevator destination not working properly
-
-![My Image](elevatorDesign.gif)
 
 You are able to find my code for this project in the "src" folder.
