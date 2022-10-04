@@ -12,6 +12,9 @@
 
 ![My Image](elevatorDesign.gif)
 
+**Sketch**
+![My Image](elevatorSketch.png)
+
 **Pros:** <br />
 - Help box
 - Fire Operations
