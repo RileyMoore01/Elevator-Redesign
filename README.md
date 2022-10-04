@@ -10,7 +10,6 @@ some text
 
 **Elevator Design:**
 
-![My Image](elevatorDesign.gif)
 
 **Pros:** <br />
 - Help box
