@@ -15,7 +15,7 @@
 
 **Sketch**
 
-![My Image](elevatorSketch.png)
+![My Image](sketch.gif)
 
 **Pros:** <br />
 - Help box
