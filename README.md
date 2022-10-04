@@ -3,6 +3,8 @@
 
 **Elevator door referenced:** Suites at Overton, East elevator door <br />
 
+![My Image](elevator.jpg)
+
 **Elevator Design:**
 
 ![My Image](elevatorDesign.gif)
