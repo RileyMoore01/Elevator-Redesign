@@ -9,7 +9,7 @@ some text
 ![My Image](levelDisplay.gif)
 
 **Elevator Design:**
-
+![My Image](elevatorDesign.gif)
 
 **Pros:** <br />
 - Help box
