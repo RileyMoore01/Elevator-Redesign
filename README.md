@@ -5,7 +5,7 @@
 
 ![My Image](elevator.jpg)
 
-some text
+**Level Display**
 ![My Image](levelDisplay.gif)
 
 **Elevator Design:**
