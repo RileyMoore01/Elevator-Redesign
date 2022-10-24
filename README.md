@@ -5,9 +5,6 @@
 
 ![My Image](elevator.jpg)
 
-**Level Display**
-![My Image](levelDisplay.gif)
-
 **Elevator Design:**
 
 ![My Image](giphy.webp)
