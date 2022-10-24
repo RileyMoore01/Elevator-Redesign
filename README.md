@@ -12,7 +12,7 @@
 
 **Sketch**
 
-![My Image](sketch.gif)
+![My Image](s.jpg)
 
 **Pros:** <br />
 - Help box
