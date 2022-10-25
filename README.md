@@ -7,7 +7,7 @@
 
 **Elevator Design:**
 
-![My Image](giphy.webp)
+![My Image](giphy.gif)
 
 
 **Sketch**
