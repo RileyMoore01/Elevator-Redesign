@@ -12,7 +12,7 @@
 
 **Sketch**
 
-![My Image](s.jpg)
+![My Image](IMG_5910.HEIC)
 
 **Pros:** <br />
 - Help box
