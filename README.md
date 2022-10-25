@@ -5,10 +5,6 @@
 
 ![My Image](elevator.jpg)
 
-**Elevator Design:**
-
-![My Image](giphy.gif)
-
 
 **Sketch**
 
@@ -45,5 +41,9 @@ I like how the numbers are ordered from the lowest level on the bottom to the hi
 
 
 The reason I spoke of earlier is that kids are able to press the help button with rather easy accessibility. More than likely, this will stay where it is. However, I do have to consider the case of when a child is alone and needs to signal for help. This is why I am keeping the help button on the bottom of the panel. This way the fire operations can not be signaled for the fire team to come to that local which is very expensive for the company that is using the service. Instead, children will be able to call for help which in turn can call the fire department. Along with the fact that if a child is alone in panic, it is wise to have an adult there to talk them through that traumatic time.
+
+**Elevator Design:**
+
+![My Image](giphy.gif)
 
 You are able to find my code for this project in the "src" folder.
