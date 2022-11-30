@@ -5,7 +5,6 @@
 
 ![My Image](elevator.jpg)
 
-
 **Sketch**
 
 ![My Image](IMG_5910.jpg)
